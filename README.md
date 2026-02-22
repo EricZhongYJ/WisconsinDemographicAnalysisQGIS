@@ -34,7 +34,7 @@ The objective is to transform raw census and geographic boundary data into publi
 │              tl_2025_us_county.cpg
 │              tl_2025_us_county.dbf
 │              tl_2025_us_county.prj
-│              tl_2025_us_county.shp
+│              tl_2025_us_county.shp (126 MB, failed to upload, just ignore it in QGIS)
 │              tl_2025_us_county.shp.ea.iso.xml
 │              tl_2025_us_county.shp.iso.xml
 │              tl_2025_us_county.shx
@@ -184,4 +184,5 @@ This project demonstrates the ability to:
 - Transform raw demographic data into spatial insights
 - Select appropriate classification strategies for skewed distributions
 - Produce publication-ready geographic visualizations
+
 - Structure reproducible GIS workflows
