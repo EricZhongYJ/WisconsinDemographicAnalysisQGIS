@@ -76,7 +76,7 @@ The objective is to transform raw census and geographic boundary data into publi
 
 ### 2. Data Cleaning
 
-- Renamed `B01003_001E` → `Population`
+- Renamed field `ACSDT5Y2024.B01003_Estimate!!Total` to `Population` and field `ACSDT5Y2024.B01003_Geography` to `CSV_GEOID`
 - Verified GEOID consistency
 - Removed unused attributes
 
@@ -186,3 +186,4 @@ This project demonstrates the ability to:
 - Produce publication-ready geographic visualizations
 
 - Structure reproducible GIS workflows
+
