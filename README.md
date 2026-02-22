@@ -112,9 +112,9 @@ Where:
 - Northern counties show significantly lower population totals
 - Strong urban–rural contrast across the state
 
-[Output](output/Wisconsin Population 2024.png):
+[Output](./output/Wisconsin Population 2024.png):
 
-![](output/Wisconsin Population 2024.png)
+![](./output/Wisconsin Population 2024.png)
 
 ------
 
@@ -131,9 +131,9 @@ Due to right-skewed distribution, a logarithmic transformation (log10) was appli
 - Northern Wisconsin is sparsely populated
 - Density pattern emphasizes metropolitan clustering
 
-[Output](output/Wisconsin Population Density 2024.png):
+[Output](./output/Wisconsin Population Density 2024.png):
 
-![](output/Wisconsin Population Density 2024.png)
+![](./output/Wisconsin Population Density 2024.png)
 
 ------
 
@@ -186,4 +186,5 @@ This project demonstrates the ability to:
 - Produce publication-ready geographic visualizations
 
 - Structure reproducible GIS workflows
+
 
