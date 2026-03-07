@@ -112,9 +112,9 @@ Where:
 - Northern counties show significantly lower population totals
 - Strong urban–rural contrast across the state
 
-[Output](./output/Wisconsin Population 2024.png):
+[Output](https://github.com/EricZhongYJ/WisconsinDemographicAnalysisQGIS/blob/main/output/Wisconsin%20Population%202024.png):
 
-![](./output/Wisconsin Population 2024.png)
+![](https://github.com/EricZhongYJ/WisconsinDemographicAnalysisQGIS/blob/main/output/Wisconsin%20Population%202024.png)
 
 ------
 
@@ -186,5 +186,6 @@ This project demonstrates the ability to:
 - Produce publication-ready geographic visualizations
 
 - Structure reproducible GIS workflows
+
 
 
